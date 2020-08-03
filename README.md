@@ -31,6 +31,7 @@ If you are running Ubuntu, then
 Please note the first paragraph above.
 
 For all distros:
+git clone https://github.com/jodhpurlaxman/rtlwifi_new.git
 cd rtlwifi_new
 make
 sudo chmod +x install.sh
